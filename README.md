@@ -1,4 +1,4 @@
-# vueapplication
+# Kanban Board with Vue.js and Node.js
 
 This project is a learning exercise that combines Vue.js for the frontend and Node.js with Express for the backend. The frontend, developed with Vue.js, offers an interactive user interface, while the backend, powered by Node.js and Express, handles server logic and API integrations. Key features include:
 
@@ -14,6 +14,7 @@ This project serves as a platform to deepen understanding of Vue.js while simult
 
 ![](images/screenshot_modal.jpeg)
 Homepage of the Web Application.
+
 
 ![](images/screenshot_mainview.jpeg)
 
